@@ -1,3 +1,11 @@
+<!-- Cyber_i53 -->
+
+<p align="center">
+  <img src=".imgs/ci53cover1.jpg">
+</p>
+
+##
+
 - 👋 Hi, I’m @Cyberi53
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
